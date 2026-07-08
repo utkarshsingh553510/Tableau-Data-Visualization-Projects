@@ -1,160 +1,174 @@
-<div align="center">
-
 # 📊 Tableau Data Visualization Projects
 
-### 🚀 A Complete Tableau Learning Repository with Notes, Dashboards & Real-World Projects
+<p align="center">
 
-<img src="https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/utkarshsingh553510/Tableau-Data-Visualization-Projects?style=for-the-badge"/>
-<img src="https://img.shields.io/github/forks/utkarshsingh553510/Tableau-Data-Visualization-Projects?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Interactive+Tableau+Dashboards;Real-World+Data+Visualization+Projects;Beginner+to+Advanced+Tableau+Learning;Data+Storytelling+Through+Visualization" />
 
-</div>
+</p>
 
----
+<p align="center">
 
-# 📌 About
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF9800?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Projects](https://img.shields.io/badge/Projects-Real--World-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
 
-This repository contains my complete **Tableau learning journey**, including structured notes, hands-on visualizations, interactive dashboards, and real-world business projects.
-
-The goal of this repository is to build strong Tableau skills from the basics to advanced concepts while creating portfolio-ready dashboards.
+</p>
 
 ---
 
-# 📚 Repository Structure
+# 🚀 About Repository
+
+Welcome to my Tableau portfolio repository.
+
+This repository contains my **Tableau dashboards, visualization projects, learning notes, datasets, and documentation** created while learning Data Analytics and Data Visualization.
+
+The goal of this repository is to showcase practical Tableau skills through interactive dashboards built on real-world datasets.
+
+---
+
+# ✨ Repository Highlights
+
+✅ Interactive Tableau Dashboards
+
+✅ Real-World Data Analysis Projects
+
+✅ Beginner to Advanced Tableau Notes
+
+✅ Dashboard Documentation
+
+✅ Excel Datasets
+
+✅ Tableau Public Dashboards
+
+✅ Clean Repository Structure
+
+---
+
+# 📂 Featured Projects
+
+## 🦠 Covid-19 India Dashboard Analysis
+
+A complete interactive Tableau dashboard analyzing Covid-19 data across India.
+
+### Features
+
+- 🗺 Interactive India Map
+- 📈 Covid Trend Analysis
+- 💉 Vaccination Dashboard
+- 🧪 Testing Statistics
+- 👥 Gender Analysis
+- 🎂 Age Group Analysis
+- 📊 State-wise Insights
+- 📍 Interactive Dashboard
+
+### 📁 Repository
 
 ```
-📦 Tableau-Data-Visualization-Projects
-
-│
-├── 📂 Tableau_Basics_to_Advanced
-│     ├── Tableau Notes
-│     ├── Charts
-│     ├── Joins
-│     ├── Bins
-│     ├── Calculated Fields
-│     ├── Maps
-│     └── Visualizations
-│
-├── 📂 Tableau_Projects      (Coming Soon 🚀)
-│
-├── README.md
-│
-└── LICENSE
+Covid-19-India-Dashboard-Analysis
 ```
 
----
+### 🌐 Live Dashboard
 
-# 📖 Topics Covered
-
-- ✅ Tableau Introduction
-- ✅ Tableau Installation
-- ✅ Tableau Interface
-- ✅ Connecting Data Sources
-- ✅ Basic Visualizations
-- ✅ Charts & Graphs
-- ✅ Joining Multiple Visualizations
-- ✅ Bins
-- ✅ Calculated Fields
-- ✅ Map Charts
-- ✅ Joins
-- 🔜 Parameters
-- 🔜 Filters
-- 🔜 Dashboard Actions
-- 🔜 Level of Detail (LOD)
-- 🔜 Table Calculations
-- 🔜 Stories
-- 🔜 Advanced Dashboards
+👉 https://public.tableau.com/
 
 ---
 
-# 📁 Learning Notes
+## 📚 Tableau Basics to Advanced
 
-| No. | Topic | Status |
-|------|-------|--------|
-| 01 | Tableau Introduction | ✅ |
-| 02 | Tableau Installation | ✅ |
-| 03 | Tableau Basics & First Visualization | ✅ |
-| 04 | Charts & Graphs | ✅ |
-| 05 | Joining Multiple Visualizations | ✅ |
-| 06 | Bins | ✅ |
-| 07 | Calculated Fields | ✅ |
-| 08 | Map Chart | ✅ |
-| 09 | Joins | ✅ |
+Comprehensive Tableau learning notes covering beginner to advanced concepts.
 
----
+### Topics Covered
 
-# 📈 Upcoming Tableau Projects
-
-These portfolio projects will be added soon.
-
-- ✈️ Airline Performance Dashboard
-- 🛒 Blinkit Sales Dashboard
-- 📊 Sales Analytics Dashboard
-- 👨‍💼 HR Analytics Dashboard
-- 🎬 Netflix Dashboard
-- 🏥 Healthcare Dashboard
-- 🏏 IPL Dashboard
-- 🚓 Crime Analysis Dashboard
-- 💳 Banking Dashboard
-- 📦 Supply Chain Dashboard
-
----
-
-# 🛠 Tools & Technologies
-
-- Tableau Public
-- Tableau Desktop
-- Microsoft Excel
-- CSV
-- Data Visualization
-- Dashboard Design
-- Business Intelligence
-
----
-
-# 🎯 Skills Demonstrated
-
-- Data Cleaning
-- Data Visualization
-- Interactive Dashboards
-- Dashboard Design
-- Calculated Fields
-- Joins
+- Tableau Interface
+- Connecting Data
+- Data Types
+- Filters
+- Groups
+- Sets
+- Parameters
+- Charts
 - Maps
-- Bins
-- Business Insights
-- Storytelling with Data
+- Calculated Fields
+- Dashboard
+- Story
+- Formatting
+- Table Calculations
+- LOD Expressions
 
 ---
 
-# 🚀 Repository Progress
+# 🛠 Tech Stack
 
-| Category | Progress |
-|----------|----------|
-| Tableau Notes | ✅ In Progress |
-| Dashboards | 🔄 Coming Soon |
-| Portfolio Projects | 🔄 Coming Soon |
-
----
-
-# ⭐ Support
-
-If you found this repository helpful,
-
-⭐ Star this repository
-
-🍴 Fork it
-
-💡 Share your suggestions
+| Tool | Usage |
+|------|-------|
+| Tableau Desktop | Dashboard Development |
+| Tableau Public | Dashboard Publishing |
+| Microsoft Excel | Data Preparation |
+| Map Shapefiles | Geographic Visualization |
 
 ---
 
-<div align="center">
+# 📂 Repository Structure
 
-## 👨‍💻 Created with ❤️ by Utkarsh Singh
+```
+Tableau-Data-Visualization-Projects
+│
+├── Covid-19-India-Dashboard-Analysis
+│
+├── Tableau_Basics_to_Advanced
+│
+└── README.md
+```
 
-### ⭐ Happy Learning ⭐
+---
 
-</div>
+# 📈 Skills Demonstrated
+
+- Data Visualization
+- Dashboard Design
+- Interactive Analytics
+- Geospatial Mapping
+- Data Storytelling
+- Business Intelligence
+- Data Cleaning
+- Data Analysis
+
+---
+
+# 🎯 Learning Journey
+
+This repository is continuously updated as I build more Tableau dashboards and improve my data visualization skills.
+
+Upcoming Projects
+
+- Sales Dashboard
+- HR Analytics Dashboard
+- Financial Dashboard
+- IPL Dashboard
+- Netflix Dashboard
+- Superstore Dashboard
+- E-Commerce Dashboard
+
+---
+
+# 🌟 Connect With Me
+
+### 👨‍💻 Utkarsh Singh
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/utkarsh-singh-ds
+
+💻 **GitHub**
+
+https://github.com/utkarshsingh553510
+
+---
+
+<p align="center">
+
+### ⭐ If you like this repository, don't forget to Star it ⭐
+
+</p>
