@@ -71,7 +71,7 @@ Covid-19-India-Dashboard-Analysis
 
 ### 🌐 Live Dashboard
 
-👉 https://public.tableau.com/
+👉 https://public.tableau.com/views/Covid-19FinalDashboardAnalysis/Dashboard1
 
 ---
 
