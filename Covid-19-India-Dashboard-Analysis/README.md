@@ -32,7 +32,7 @@ https://public.tableau.com/authoring/Covid-19FinalDashboardAnalysis/Dashboard1#1
 
 <p align="center">
 
-![Covid Dashboard]<img width="1919" height="1038" alt="Screenshot 2026-07-08 235021" src="https://github.com/user-attachments/assets/a1438822-d2db-4835-af90-15ec700142b6" />
+<img width="1919" height="1038" alt="Screenshot 2026-07-08 235021" src="https://github.com/user-attachments/assets/a1438822-d2db-4835-af90-15ec700142b6" />
 
 
 </p>
