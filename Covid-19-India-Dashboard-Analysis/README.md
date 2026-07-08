@@ -24,7 +24,7 @@ The dashboard combines multiple datasets into a single interactive visualization
 ### 👉 **View Interactive Dashboard**
 
 **🔗 Tableau Public:**  
-https://public.tableau.com/authoring/Covid-19FinalDashboardAnalysis/Dashboard1#1
+https://public.tableau.com/views/Covid-19FinalDashboardAnalysis/Dashboard1
 
 ---
 
