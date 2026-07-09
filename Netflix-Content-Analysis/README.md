@@ -35,7 +35,8 @@ This project presents an interactive Tableau dashboard for analyzing Netflix Mov
 > **Screenshot of the Dashboard**
 
 <p align="center">
-  <img src="Images/Dashboard.png" alt="Netflix Content Analysis Dashboard" width="100%">
+ <img width="1895" height="1046" alt="Netflix Content Analysis" src="https://github.com/user-attachments/assets/51956323-6277-45a3-8426-b3da99747dc4" />
+
 </p>
 
 ---
