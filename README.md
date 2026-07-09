@@ -6,143 +6,127 @@
 
 <div align="center">
 
-# 🎬 Netflix Content Analysis Dashboard
+# 📊 Tableau Data Visualization Projects
 
-### Interactive Netflix Movies & TV Shows Analysis using Tableau
+### A collection of interactive Tableau dashboards built using real-world datasets.
 
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Project-red?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
-### 📊 Interactive Netflix Dashboard
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Projects-red?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/Portfolio-Interactive-blue?style=for-the-badge)
 
 </div>
 
 ---
 
-# 📖 Overview
+# 📖 About Repository
 
-This project presents an interactive Tableau dashboard that analyzes Netflix Movies and TV Shows using publicly available Netflix content data. It enables users to explore trends across genres, ratings, countries, release years, and content types through dynamic visualizations and filters.
+This repository contains my Tableau Data Visualization projects created using real-world datasets.
 
----
-
-# 🖼️ Dashboard Preview
-
-<p align="center">
-  <img src="Images/Dashboard.png" alt="Netflix Content Analysis Dashboard" width="100%">
-</p>
+Each project focuses on transforming raw data into meaningful, interactive dashboards that provide valuable business insights through effective data visualization.
 
 ---
 
-# 🌐 Live Dashboard
+# 📂 Projects
 
-### 🔗 Tableau Public
-
-**Netflix Content Analysis**
-
-👉 https://public.tableau.com/app/profile/utkarsh.singh6574/viz/NetflixContentAnalysis_17836186247170/NetflixContentAnalysis
-
----
-
-# 🎯 Project Objectives
-
-- Analyze Netflix Movies & TV Shows
-- Compare Movies vs TV Shows
-- Analyze Content Ratings
-- Explore Top Genres
-- Visualize Country-wise Distribution
-- Analyze Release Year Trends
-- Build an Interactive Tableau Dashboard
+| Project | Description | Live Dashboard |
+|----------|-------------|----------------|
+| 🦠 **Covid-19 India Dashboard Analysis** | Interactive dashboard analyzing Covid-19 cases, vaccinations, testing, state-wise insights, and trend analysis across India. | 🔗 https://public.tableau.com/views/Covid-19FinalDashboardAnalysis/Dashboard1 |
+| 🎬 **Netflix Content Analysis** | Interactive dashboard exploring Netflix Movies & TV Shows by country, genre, rating, release year, and content distribution. | 🔗 https://public.tableau.com/app/profile/utkarsh.singh6574/viz/NetflixContentAnalysis_17836186247170/NetflixContentAnalysis |
 
 ---
 
-# ✨ Dashboard Features
+# 🛠️ Skills Demonstrated
 
-- 🎬 Interactive Filters
-- 🌍 Country-wise Analysis
-- ⭐ Rating Distribution
-- 🎭 Top 10 Genres
-- 📈 Release Year Trend
-- 📺 Movies vs TV Shows Comparison
-- 📖 Dynamic Description Panel
+- 📊 Interactive Dashboard Design
+- 📈 Data Visualization
+- 📉 Trend Analysis
+- 🌍 Geographic Analysis
+- 🎯 Dashboard Filters
+- 📋 KPI Reporting
+- 📊 Business Insights
+- 📍 Maps & Charts
+- 📂 Data Cleaning
+- 📈 Storytelling with Data
 
 ---
 
-# 🛠️ Tools Used
+# 💻 Tools & Technologies
 
 - Tableau Public
 - Microsoft Excel
-- CSV Dataset
-
----
-
-# 📂 Dataset
-
-Dataset includes:
-
-- Show ID
-- Title
-- Type
-- Director
-- Cast
-- Country
-- Date Added
-- Release Year
-- Rating
-- Duration
-- Genre
-- Description
-
-Location:
-
-```text
-Dataset/netflix_titles.csv
-```
-
----
-
-# 📈 Key Insights
-
-- 🎬 Movies represent approximately **68%** of Netflix's content library.
-- 📺 TV Shows account for around **32%** of the catalog.
-- ⭐ TV-MA is the most common rating.
-- 🌍 The United States contributes the highest number of titles.
-- 🎭 Documentaries are among the most common genres.
-- 📅 Content additions increased rapidly after **2016**, peaking around **2019**.
+- CSV Datasets
+- Interactive Dashboards
 
 ---
 
 # 📁 Repository Structure
 
 ```text
-Netflix-Content-Analysis
+Tableau-Data-Visualization-Projects
 │
-├── Dashboard
-│   └── Netflix Content Analysis.twbx
+├── Covid-19-India-Dashboard-Analysis
 │
-├── Dataset
-│   └── netflix_titles.csv
+├── Netflix-Content-Analysis
 │
-├── Images
-│   └── Dashboard.png
-│
-└── README.md
+└── Tableau_Basics_to_Advanced
 ```
 
 ---
 
-# 🚀 How to Use
+# 🚀 Featured Projects
 
-1. Clone this repository.
-2. Open the `.twbx` file in Tableau Desktop.
-3. Or explore the live dashboard using Tableau Public.
+## 🦠 Covid-19 India Dashboard
+
+### Highlights
+
+- State-wise Covid Analysis
+- Vaccination Dashboard
+- Testing Dashboard
+- Gender Analysis
+- Age Group Analysis
+- Interactive India Map
+
+📂 Folder
+
+```text
+Covid-19-India-Dashboard-Analysis
+```
+
+---
+
+## 🎬 Netflix Content Analysis
+
+### Highlights
+
+- Country-wise Analysis
+- Rating Distribution
+- Movies vs TV Shows
+- Top Genres
+- Release Year Trends
+- Interactive Filters
+
+📂 Folder
+
+```text
+Netflix-Content-Analysis
+```
+
+---
+
+# 🌐 Tableau Public Profile
+
+Explore all my Tableau dashboards here:
+
+### 🔗 https://public.tableau.com/app/profile/utkarsh.singh6574
 
 ---
 
 # 👨‍💻 Author
 
-**Utkarsh Singh**
+## Utkarsh Singh
+
+**B.Tech – Information Technology**
 
 - 💻 GitHub: https://github.com/utkarshsingh553510
 - 💼 LinkedIn: https://www.linkedin.com/in/utkarsh-singh-ds
@@ -152,7 +136,7 @@ Netflix-Content-Analysis
 
 <div align="center">
 
-### ⭐ If you found this project useful, please consider giving it a Star!
+## ⭐ If you like these projects, don't forget to Star this repository!
 
 Made with ❤️ by **Utkarsh Singh**
 
