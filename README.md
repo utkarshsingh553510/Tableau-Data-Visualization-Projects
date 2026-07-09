@@ -4,171 +4,156 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Interactive+Tableau+Dashboards;Real-World+Data+Visualization+Projects;Beginner+to+Advanced+Tableau+Learning;Data+Storytelling+Through+Visualization" />
 
-</p>
+<div align="center">
+
+# 🎬 Netflix Content Analysis Dashboard
+
+### Interactive Netflix Movies & TV Shows Analysis using Tableau
+
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Project-red?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+### 📊 Interactive Netflix Dashboard
+
+</div>
+
+---
+
+# 📖 Overview
+
+This project presents an interactive Tableau dashboard that analyzes Netflix Movies and TV Shows using publicly available Netflix content data. It enables users to explore trends across genres, ratings, countries, release years, and content types through dynamic visualizations and filters.
+
+---
+
+# 🖼️ Dashboard Preview
 
 <p align="center">
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF9800?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects-Real--World-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
-
+  <img src="Images/Dashboard.png" alt="Netflix Content Analysis Dashboard" width="100%">
 </p>
 
 ---
 
-# 🚀 About Repository
+# 🌐 Live Dashboard
 
-Welcome to my Tableau portfolio repository.
+### 🔗 Tableau Public
 
-This repository contains my **Tableau dashboards, visualization projects, learning notes, datasets, and documentation** created while learning Data Analytics and Data Visualization.
+**Netflix Content Analysis**
 
-The goal of this repository is to showcase practical Tableau skills through interactive dashboards built on real-world datasets.
-
----
-
-# ✨ Repository Highlights
-
-✅ Interactive Tableau Dashboards
-
-✅ Real-World Data Analysis Projects
-
-✅ Beginner to Advanced Tableau Notes
-
-✅ Dashboard Documentation
-
-✅ Excel Datasets
-
-✅ Tableau Public Dashboards
-
-✅ Clean Repository Structure
+👉 https://public.tableau.com/app/profile/utkarsh.singh6574/viz/NetflixContentAnalysis_17836186247170/NetflixContentAnalysis
 
 ---
 
-# 📂 Featured Projects
+# 🎯 Project Objectives
 
-## 🦠 Covid-19 India Dashboard Analysis
+- Analyze Netflix Movies & TV Shows
+- Compare Movies vs TV Shows
+- Analyze Content Ratings
+- Explore Top Genres
+- Visualize Country-wise Distribution
+- Analyze Release Year Trends
+- Build an Interactive Tableau Dashboard
 
-A complete interactive Tableau dashboard analyzing Covid-19 data across India.
+---
 
-### Features
+# ✨ Dashboard Features
 
-- 🗺 Interactive India Map
-- 📈 Covid Trend Analysis
-- 💉 Vaccination Dashboard
-- 🧪 Testing Statistics
-- 👥 Gender Analysis
-- 🎂 Age Group Analysis
-- 📊 State-wise Insights
-- 📍 Interactive Dashboard
+- 🎬 Interactive Filters
+- 🌍 Country-wise Analysis
+- ⭐ Rating Distribution
+- 🎭 Top 10 Genres
+- 📈 Release Year Trend
+- 📺 Movies vs TV Shows Comparison
+- 📖 Dynamic Description Panel
 
-### 📁 Repository
+---
 
+# 🛠️ Tools Used
+
+- Tableau Public
+- Microsoft Excel
+- CSV Dataset
+
+---
+
+# 📂 Dataset
+
+Dataset includes:
+
+- Show ID
+- Title
+- Type
+- Director
+- Cast
+- Country
+- Date Added
+- Release Year
+- Rating
+- Duration
+- Genre
+- Description
+
+Location:
+
+```text
+Dataset/netflix_titles.csv
 ```
-Covid-19-India-Dashboard-Analysis
-```
-
-### 🌐 Live Dashboard
-
-👉 https://public.tableau.com/views/Covid-19FinalDashboardAnalysis/Dashboard1
 
 ---
 
-## 📚 Tableau Basics to Advanced
+# 📈 Key Insights
 
-Comprehensive Tableau learning notes covering beginner to advanced concepts.
-
-### Topics Covered
-
-- Tableau Interface
-- Connecting Data
-- Data Types
-- Filters
-- Groups
-- Sets
-- Parameters
-- Charts
-- Maps
-- Calculated Fields
-- Dashboard
-- Story
-- Formatting
-- Table Calculations
-- LOD Expressions
+- 🎬 Movies represent approximately **68%** of Netflix's content library.
+- 📺 TV Shows account for around **32%** of the catalog.
+- ⭐ TV-MA is the most common rating.
+- 🌍 The United States contributes the highest number of titles.
+- 🎭 Documentaries are among the most common genres.
+- 📅 Content additions increased rapidly after **2016**, peaking around **2019**.
 
 ---
 
-# 🛠 Tech Stack
+# 📁 Repository Structure
 
-| Tool | Usage |
-|------|-------|
-| Tableau Desktop | Dashboard Development |
-| Tableau Public | Dashboard Publishing |
-| Microsoft Excel | Data Preparation |
-| Map Shapefiles | Geographic Visualization |
-
----
-
-# 📂 Repository Structure
-
-```
-Tableau-Data-Visualization-Projects
+```text
+Netflix-Content-Analysis
 │
-├── Covid-19-India-Dashboard-Analysis
+├── Dashboard
+│   └── Netflix Content Analysis.twbx
 │
-├── Tableau_Basics_to_Advanced
+├── Dataset
+│   └── netflix_titles.csv
+│
+├── Images
+│   └── Dashboard.png
 │
 └── README.md
 ```
 
 ---
 
-# 📈 Skills Demonstrated
+# 🚀 How to Use
 
-- Data Visualization
-- Dashboard Design
-- Interactive Analytics
-- Geospatial Mapping
-- Data Storytelling
-- Business Intelligence
-- Data Cleaning
-- Data Analysis
+1. Clone this repository.
+2. Open the `.twbx` file in Tableau Desktop.
+3. Or explore the live dashboard using Tableau Public.
 
 ---
 
-# 🎯 Learning Journey
+# 👨‍💻 Author
 
-This repository is continuously updated as I build more Tableau dashboards and improve my data visualization skills.
+**Utkarsh Singh**
 
-Upcoming Projects
-
-- Sales Dashboard
-- HR Analytics Dashboard
-- Financial Dashboard
-- IPL Dashboard
-- Netflix Dashboard
-- Superstore Dashboard
-- E-Commerce Dashboard
+- 💻 GitHub: https://github.com/utkarshsingh553510
+- 💼 LinkedIn: https://www.linkedin.com/in/utkarsh-singh-ds
+- 📊 Tableau Public: https://public.tableau.com/app/profile/utkarsh.singh6574
 
 ---
 
-# 🌟 Connect With Me
+<div align="center">
 
-### 👨‍💻 Utkarsh Singh
+### ⭐ If you found this project useful, please consider giving it a Star!
 
-💼 **LinkedIn**
+Made with ❤️ by **Utkarsh Singh**
 
-https://www.linkedin.com/in/utkarsh-singh-ds
-
-💻 **GitHub**
-
-https://github.com/utkarshsingh553510
-
----
-
-<p align="center">
-
-### ⭐ If you like this repository, don't forget to Star it ⭐
-
-</p>
+</div>
