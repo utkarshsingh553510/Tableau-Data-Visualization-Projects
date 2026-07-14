@@ -1,10 +1,6 @@
 # 🎬 Malayalam Cinema Strategic Analysis
 
 <p align="center">
-  <img src="Images/Dashboard_Overview.png" alt="Malayalam Cinema Dashboard" width="100%">
-</p>
-
-<p align="center">
   <a href="https://public.tableau.com/app/profile/utkarsh.singh6574/viz/Malayalam_Cinema_Strategic_Analysis/Dashboard1?publish=yes">
     <img src="https://img.shields.io/badge/View-Live%20Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white">
   </a>
