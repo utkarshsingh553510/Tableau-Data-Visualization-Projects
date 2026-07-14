@@ -75,8 +75,9 @@ Malayalam-Movie-Analysis/
 
 <img width="1905" height="1039" alt="Dashboard_Overview png" src="https://github.com/user-attachments/assets/3fd2f609-d8cc-4c4b-b353-7285009da09a" />
 
+<img width="1919" height="1035" alt="Dashboard_Top png" src="https://github.com/user-attachments/assets/36a9c744-8647-4766-b35d-530b06202efa" />
 
-
+<img width="1902" height="388" alt="Dashboard_Bottom png" src="https://github.com/user-attachments/assets/e75d01fe-1c77-4f89-999d-15762027926b" />
 
 
 ---
