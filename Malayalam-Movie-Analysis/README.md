@@ -73,21 +73,11 @@ Malayalam-Movie-Analysis/
 
 # 📸 Dashboard Preview
 
-## Dashboard Overview
+<img width="1905" height="1039" alt="Dashboard_Overview png" src="https://github.com/user-attachments/assets/3fd2f609-d8cc-4c4b-b353-7285009da09a" />
 
-![Dashboard](Images/Dashboard_Overview.png)
 
----
 
-## Top Section
 
-![Top](Images/Dashboard_Top.png)
-
----
-
-## Bottom Section
-
-![Bottom](Images/Dashboard_Bottom.png)
 
 ---
 
