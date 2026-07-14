@@ -81,391 +81,59 @@ Each project focuses on converting raw data into meaningful business insights th
 </div>
 
 
+# 📊 Skills Demonstrated
 
-# 🎬 Malayalam Cinema Strategic Analysis
-
----
-
-<div align="center">
-
-# ⭐ Featured Portfolio Project
-
-### Strategic Business Intelligence Dashboard
-
-<img src="Images/Dashboard_Overview.png" width="100%">
-
-</div>
+- 📈 Interactive Dashboard Design
+- 📊 Business Intelligence
+- 📉 Trend Analysis
+- 📍 Geographic Analysis
+- 🎯 KPI Reporting
+- 📂 Data Cleaning
+- 📑 Storytelling with Data
+- 🎨 Dashboard Formatting
+- 🔍 Exploratory Data Analysis
+- 📌 Business Insights
 
 ---
 
-## 🚀 Live Dashboard
+# 🛠️ Tools & Technologies
 
-<div align="center">
-
-<a href="https://public.tableau.com/app/profile/utkarsh.singh6574/viz/Malayalam_Cinema_Strategic_Analysis/Dashboard1?publish=yes">
-
-<img src="https://img.shields.io/badge/🎬%20OPEN%20LIVE%20DASHBOARD-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-</a>
-
-</div>
+- Tableau Public
+- Microsoft Excel
+- CSV Datasets
+- Interactive Dashboards
+- Data Visualization
+- Business Analytics
 
 ---
 
-# 📖 Project Story
+# 🌟 Why These Projects?
 
-Rather than simply visualizing movie data, this dashboard answers important business questions about the Malayalam film industry.
+These dashboards demonstrate my ability to:
 
-It explores how **budget, ROI, awards, genre, star power, and the COVID-19 pandemic** influenced commercial success.
-
-The objective was to transform raw movie data into meaningful insights that could support business decisions and reveal hidden industry patterns.
-
----
-
-# 🎯 Business Questions Solved
-
-| Question | Dashboard |
-|-----------|-----------|
-| 💰 Does a bigger budget guarantee higher ROI? | ✅ |
-| 🏆 Do award-winning movies earn better returns? | ✅ |
-| 🎭 Which genres generate the highest ROI? | ✅ |
-| 🌟 Does star power really matter? | ✅ |
-| 😷 How did COVID impact profitability? | ✅ |
-| 📈 Which movies delivered maximum value? | ✅ |
-| 🎬 Which actors consistently performed? | ✅ |
-| 💸 Which films achieved high ROI with low budgets? | ✅ |
+- Convert raw data into actionable insights.
+- Design clean and interactive dashboards.
+- Apply business thinking to real-world datasets.
+- Build recruiter-ready Tableau portfolio projects.
+- Communicate insights through effective visual storytelling.
 
 ---
 
-# 📊 Dashboard Highlights
+# 👨‍💻 About Me
 
-### 💰 Budget vs ROI Analysis
+**Utkarsh Singh**
 
-Understand whether high-budget movies actually generate better returns.
+🎓 B.Tech (Information Technology)
 
----
+🔗 LinkedIn: https://www.linkedin.com/in/utkarsh-singh-ds
 
-### 🏆 Awards vs Profitability
+💻 GitHub: https://github.com/utkarshsingh553510
 
-Compare award-winning and non-award-winning movies to evaluate financial performance.
-
----
-
-### 🌟 Star Power Analysis
-
-Analyze how different actor tiers influence commercial success.
+📊 Tableau Public: https://public.tableau.com/app/profile/utkarsh.singh6574
 
 ---
 
-### 🎭 Genre Performance
-
-Discover genres that consistently deliver strong ROI.
-
----
-
-### 📈 Industry Trend
-
-Visualize long-term changes in budgets and profitability.
-
----
-
-### 😷 COVID Impact
-
-Compare the Malayalam film industry across:
-
-- Pre-COVID
-- COVID Era
-- Post-COVID
-
----
-
-### ⚡ Efficiency Analysis
-
-Identify movies that generated exceptional ROI despite modest budgets.
-
----
-
-# ✨ Key Insights
-
-> 🎯 Awards generally correlate with higher average ROI.
-
-> 🎯 Several low-budget films significantly outperformed high-budget productions.
-
-> 🎯 Post-COVID Malayalam cinema experienced a strong financial recovery.
-
-> 🎯 Star power contributes to success but is not the only determining factor.
-
-> 🎯 Romantic and family-oriented genres demonstrated consistently strong returns.
-
----
-
-# 🛠 Tools Used
-
-| Tool | Purpose |
-|------|----------|
-| Tableau Public | Dashboard Development |
-| Microsoft Excel | Data Cleaning |
-| CSV Dataset | Data Source |
-| Tableau Calculations | KPI Metrics |
-| Interactive Filters | User Exploration |
-
----
-
-# 📂 Project Structure
-
-```text
-Malayalam-Movie-Analysis
-
-│
-
-├── Dashboard
-
-│ └── Malayalam_Cinema_Strategic_Analysis.twbx
-
-│
-
-├── Dataset
-
-│ └── Malayalam_Movies.csv
-
-│
-
-├── Images
-
-│ ├── Dashboard_Overview.png
-
-│ ├── Dashboard_Top.png
-
-│ └── Dashboard_Bottom.png
-
-│
-
-└── README.md
-```
-
----
-
-## 📸 Dashboard Preview
-
-### Complete Dashboard
-
-<img src="Images/Dashboard_Overview.png" width="100%">
-
----
-
-### Top Section
-
-<img src="Images/Dashboard_Top.png" width="100%">
-
----
-
-### Bottom Section
-
-<img src="Images/Dashboard_Bottom.png" width="100%">
-
----
-
-<div align="center">
-
-# ⭐ If you enjoyed this dashboard, don't forget to explore it on Tableau Public!
-
-<a href="https://public.tableau.com/app/profile/utkarsh.singh6574/viz/Malayalam_Cinema_Strategic_Analysis/Dashboard1?publish=yes">
-
-<img src="https://img.shields.io/badge/View%20Interactive%20Dashboard-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-</a>
-
-</div>
-
----# 🎥 Netflix Content Analysis
-
----
-
-<div align="center">
-
-## 🍿 Interactive Content Intelligence Dashboard
-
-<img src="Netflix-Content-Analysis/Images/Dashboard_Overview.png" width="100%">
-
-</div>
-
----
-
-## 🚀 Live Dashboard
-
-<div align="center">
-
-<a href="https://public.tableau.com/app/profile/utkarsh.singh6574/viz/NetflixContentAnalysis_17836186247170/NetflixContentAnalysis">
-
-<img src="https://img.shields.io/badge/🎬%20View%20Live%20Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
-## 📖 Project Overview
-
-This dashboard explores Netflix's global content library using interactive visualizations to uncover trends in movies and TV shows.
-
-### 🔍 Key Analysis
-
-- 🌍 Country-wise Content Distribution
-- 🎭 Genre Analysis
-- ⭐ Rating Distribution
-- 📅 Release Trend Analysis
-- 🎬 Movies vs TV Shows
-- 📈 Content Growth Over Time
-- 🎯 Interactive Filters
-
----
-
-## 💡 Key Insights
-
-✔ Netflix content has grown rapidly over the past decade.
-
-✔ Movies dominate the platform compared to TV Shows.
-
-✔ Drama and International content are among the largest categories.
-
-✔ Content production is concentrated in a few major countries.
-
----
-
-# 🦠 Covid-19 India Dashboard Analysis
-
----
-
-<div align="center">
-
-## 📊 India Pandemic Analytics Dashboard
-
-<img src="Covid-19-India-Dashboard-Analysis/Images/Dashboard_Overview.png" width="100%">
-
-</div>
-
----
-
-## 🚀 Live Dashboard
-
-<div align="center">
-
-<a href="https://public.tableau.com/views/Covid-19FinalDashboardAnalysis/Dashboard1">
-
-<img src="https://img.shields.io/badge/📈%20View%20Live%20Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
-## 📖 Project Overview
-
-An interactive Tableau dashboard providing insights into the COVID-19 pandemic across India.
-
-The dashboard combines multiple datasets to visualize nationwide trends and support data-driven understanding of the outbreak.
-
----
-
-## 🔍 Dashboard Features
-
-- 🗺 State-wise Analysis
-- 💉 Vaccination Dashboard
-- 🧪 Testing Statistics
-- 👨 Male vs Female Cases
-- 👶 Age Group Analysis
-- 📈 Daily Trend Analysis
-- 📍 Interactive India Map
-
----
-
-## 💡 Key Insights
-
-✔ State-wise comparison of confirmed cases.
-
-✔ Vaccination progress across India.
-
-✔ Demographic analysis by age and gender.
-
-✔ Testing and recovery trends.
-
-✔ Interactive map for regional exploration.
-
----
-
-# 📈 Portfolio Statistics
-
-| Metric | Value |
-|---------|-------|
-| 📊 Tableau Dashboards | 3+ |
-| 📂 Real-world Projects | 3 |
-| 📈 Interactive Visualizations | 25+ |
-| 📁 Repository Structure | Professional |
-| 🌐 Live Tableau Dashboards | Available |
-| 📚 Documentation | Included |
-
----
-
-<div align="center">
-
-## ⭐ More dashboards coming soon...
-
-📊 Business Intelligence
-
-📈 Data Analytics
-
-🤖 AI-powered Dashboards
-
-💹 Financial Analytics
-
-🏥 Healthcare Analytics
-
-🛒 Sales Analytics
-
-</div>
-
-------
-
-# 🛠️ Technical Skills Demonstrated
-
-<div align="center">
-
-| 📊 Data Visualization | 📈 Analytics | 💼 Business Intelligence |
-|------------------------|--------------|--------------------------|
-| Tableau Public | KPI Dashboard Design | Business Storytelling |
-| Dashboard Development | Trend Analysis | Decision Support |
-| Interactive Filters | Exploratory Data Analysis | Data Interpretation |
-| Data Cleaning | Performance Analysis | Insight Generation |
-
-</div>
-
----
-
-# 📚 Repository Highlights
-
-- 📊 Interactive Tableau Dashboards
-- 📂 Well-Organized Repository Structure
-- 📈 Real-World Business Datasets
-- 🎯 Business-Focused Insights
-- 📖 Comprehensive Documentation
-- 🌐 Live Tableau Public Dashboards
-- 💡 Recruiter-Friendly Portfolio
-
----
-
-# 🚀 Future Projects
-
-- 📈 Sales Performance Dashboard
-- 💰 Financial Analytics Dashboard
-- 🏥 Healthcare Analytics Dashboard
-- 🛒 E-Commerce Dashboard
-- 📱 Social Media Analytics Dashboard
-- ⚽ Sports Analytics Dashboard
-- ✈️ Airline Performance Dashboard
-
----
+<h3 align="center">⭐ If you like my work, consider giving this repository a Star.</h3>
 
 # 👨‍💻 About Me
 
