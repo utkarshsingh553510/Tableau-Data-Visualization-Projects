@@ -95,7 +95,16 @@ Malayalam-Movie-Analysis/
 
 ### 👉 **View on Tableau Public**
 
-**https://public.tableau.com/app/profile/utkarsh.singh6574/viz/Malayalam_Cinema_Strategic_Analysis/Dashboard1?publish=yes**
+### A Business Intelligence Dashboard for the Malayalam Film Industry
+
+<a href="https://public.tableau.com/app/profile/utkarsh.singh6574/viz/Malayalam_Cinema_Strategic_Analysis/Dashboard1?publish=yes">
+
+<img src="https://img.shields.io/badge/🚀%20View%20Live%20Dashboard-E97627?style=for-the-badge"/>
+
+</a>
+
+</div>
+
 
 ---
 
